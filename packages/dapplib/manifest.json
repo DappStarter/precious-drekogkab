@@ -1,0 +1,14 @@
+{
+    "name": "Galaxy",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Galaxy",
+        "/category/asset_value_tracking/token/symbol": "GLXY",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "20000000"
+    }
+}
